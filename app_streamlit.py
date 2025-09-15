@@ -20,6 +20,7 @@ if st.button("Prediksi", type="primary"):
 	st.balloons()
 	st.snow()
 st.divider()
-st.caption("Dibuat dengan :coffee: oleh Maulana Elvano dan tono")
+st.caption("Dibuat dengan :coffee: oleh Maulana Elvano")
+
 
 
